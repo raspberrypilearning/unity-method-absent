@@ -1,11 +1,9 @@
-title: unity-method-absent
+title: My script has no errors but its methods are not running
 hero_image: images/banner.png
-description: unity-method-absent description
+description: My script has no errors but its methods are not running
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-11-23"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: My script has no errors but its methods are not running
