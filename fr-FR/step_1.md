@@ -1,3 +1,3 @@
-Make sure the script is attached to a GameObject. Have you attached the Script as a component?
+Vérifie bien que le script est attaché à un GameObject. As-tu joint le script en tant que composant ?
 
-If the script uses `OnTriggerEnter` or `OnTriggerExit`, make sure the GameObject has a collider with 'Is Trigger' selected. 
+Si le script utilise `OnTriggerEnter` ou `OnTriggerExit`, assure-toi que le GameObject possède un collider dont l'option « Is Trigger » est sélectionnée. 
